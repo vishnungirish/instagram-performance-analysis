@@ -32,7 +32,7 @@ The analysis was designed to answer questions such as:
 ## 🛠️ Tools & Skills
 
 **Tableau** — Dashboard development, calculated fields, interactive visualisation and exploratory analysis  
-**Excel / CSV** — Data preparation and validation  
+**SQL / CSV** — Data preparation and validation  
 **Data Visualisation** — KPI cards, trend analysis and comparative visualisations  
 **Business Analytics** — Translating analytical findings into business recommendations
 
